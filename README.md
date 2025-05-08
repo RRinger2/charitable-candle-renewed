@@ -70,9 +70,8 @@ This project is licensed under the terms of the license included in the reposito
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Riley Ringer
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped shape this project
 - Special thanks to the Next.js and React communities for their excellent documentation and support 
